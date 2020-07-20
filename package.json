@@ -10,7 +10,7 @@
   "author": "Livingstone Asabahebwa",
   "license": "ISC",
   "dependencies": {
-    "lodash": "4.17.11"
+    "lodash": "4.17.19"
   },
   "devDependencies": {
     "typescript": "3.4.4"
